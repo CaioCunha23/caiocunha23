@@ -11,7 +11,7 @@ Profissional em transição para a área de desenvolvimento de software, com uma
 ##
 
 <div>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=caiocunha23&show_icons=true&theme=dracula&count_private=true" />
+    <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=caiocunha23&show_icons=true&theme=dracula&count_private=true" />
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocunha23&layout=compact&langs_count=16&theme=dracula" />    
 </div>
 
