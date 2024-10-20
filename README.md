@@ -32,6 +32,10 @@ Profissional em transição para a área de desenvolvimento de software, com uma
   <a href="www.linkedin.com/in/caio-dommarco-05b400180" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="mailto:caiocunha08@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
- ![Snake animation](https://github.com/caiocunha23/blob/output/github-contribution-grid-snake.svg)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiocunha23/caiocunha23/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiocunha23/caiocunha23/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caiocunha23/caiocunha23/output/github-contribution-grid-snake.svg">
+</picture>
   
 </div>
