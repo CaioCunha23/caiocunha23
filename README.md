@@ -1,12 +1,12 @@
 # Olá!! Eu sou o Caio Cunha
 
-**Desenvolvedor em transição | Estudante de Desenvolvimento de Sistemas**
+**Developer in Transition | Systems Development Student**
 
-Profissional em transição para a área de desenvolvimento de software, com uma forte ambição de aprender novas tecnologias e resolver problemas. Estou em busca de oportunidades onde possa aplicar minhas habilidades recém-adquiridas em programação, além de agregar valor com minha experiência anterior em Comércio Exterior, desenvolvendo soft skills e trabalho em equipe.
+A professional transitioning to the software development field, with a strong ambition to learn new technologies and solve problems. I am seeking opportunities to apply my newly acquired programming skills while adding value through my previous experience in International Trade, developing soft skills and teamwork.
 
-- 🌱 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
-- 💼 Experiência em **Comércio Exterior** com foco em soft skills e colaboração
-- 📧 Contate-me: [caiocunha08@gmail.com](mailto:caiocunha08@gmail.com)
+- 🌱 Currently studying **Systems Development Technician**
+- 💼 Experience in **International Trade**, focused on soft skills and collaboration
+- 📧 Contact me: [caiocunha08@gmail.com](mailto:caiocunha08@gmail.com)
 
 ##
 
