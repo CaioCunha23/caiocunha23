@@ -10,14 +10,14 @@ A professional transitioning to the software development field, with a strong am
 
 ##
 
-<div>
+<div align="center">
     <img height="200em" width="350em" src="https://github-readme-stats.vercel.app/api?username=caiocunha23&show_icons=true&theme=dracula&count_private=true" />
     &nbsp;&nbsp;&nbsp;
     <img height="200em" width="315em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocunha23&layout=compact&langs_count=5&theme=dracula" />   
     
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt=Caio-Html height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt=Caio-Css height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt=Caio-Js height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -30,7 +30,7 @@ A professional transitioning to the software development field, with a strong am
 
 ##
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/caio-dommarco-05b400180" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="mailto:caiocunha08@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
