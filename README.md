@@ -11,7 +11,7 @@ A professional transitioning to the software development field, with a strong am
 ##
 
 <div>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=caiocunha23&show_icons=true&theme=dracula&count_private=true" />
+    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=caiocunha23&show_icons=true&theme=dracula&count_private=true" />
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocunha23&layout=compact&langs_count=8&theme=dracula" />   
     
 </div>
