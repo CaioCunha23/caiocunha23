@@ -1,4 +1,4 @@
-# Olá!! Eu sou o Caio Cunha
+# Hi!! My name is Caio Cunha
 
 **Developer in Transition | Systems Development Student**
 
